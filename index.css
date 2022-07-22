@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&family=Montserrat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&family=Dosis:wght@500&family=Montserrat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&family=Dosis:wght@500&family=Montserrat&family=Open+Sans:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&family=Dosis:wght@500&family=Montserrat&family=Open+Sans:wght@600&family=Raleway:wght@500&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  border: 1px;
+  padding: 10px;
+  margin-top: 2px;
+  margin-bottom:2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 30px;
+  background-color: #fadafada;
+  border-bottom: ;
+  border-top: 5px;
+  list-style-type: none;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+  color: deeppink;
+}
+
+.container:hover{
+  background-color: white;
+  transition: 0.3s;
+}
+
+.home:hover{
+  background-color: pink;
+  color: white;
+  transition: 0.3s;
+}
+
+.about:hover{
+  background-color: pink;
+  color: white;
+  transition: 0.3s;
+}
+
+.contact:hover{
+  background-color: pink;
+  color: white;
+  transition: 0.3s;
+}
+
+.news:hover{
+  background-color: pink;
+  color: white;
+  transition: 0.3s;
+}
+
+.logo:hover{
+  color: deeppink;
+  transition: 0.3s;
+}
+.gallery:hover{
+  background-color: pink;
+  color: white;
+  transition: 0.3s;
+}
+
+.blog:hover{
+  background-color: pink;
+  color: white;
+  transition: 0.3s;
+}
+.home{
+  border: 2px solid;
+  background-color: #fadafada;
+  border-radius: 5px;
+  padding: 5px;
+  width: 50px;
+  height: 20px;
+}
+
+.about{
+  border: 2px solid;
+  background-color: white;
+  border-radius: 5px;
+  padding:5px;
+  width: 75px;
+  height: 20px;
+}
+.contact{
+  border: 2px solid;
+  background-color: white;
+  border-radius: 5px;
+  padding:5px;
+  width: 65px;
+  height: 20px;
+}
+
+.news{
+  border: 2px solid;
+  background-color: #fadafada;
+  border-radius: 5px;
+  padding:5px;
+  width: 45px;
+  height: 20px;
+}
+
+.gallery{
+  border: 2px solid;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  width: 55px;
+  height: 20px;
+}
+
+.blog{
+  border: 2px solid;
+  background-color: #fadafada;
+  border-radius: 5px;
+  padding: 5px;
+  width: 37px;
+  height: 20px;
+}
+
+.logo{
+  height: 7vh;
+  width: px;
+  font-weight: bold;
+  margin: 8px;
+  margin-left: 1px;
+  padding:1px;
+  color: #D08370;
+  cursor: pointer;
+}
+
+.section1{
+background: url(https://images.unsplash.com/photo-1581591524425-c7e0978865fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGlnaXRhbCUyMGNhbWVyYXxlbnwwfHwwfHw%3D&w=1000&q=80),
+url(https://www.wallpaperuse.com/wallp/3-34195_m.jpg),
+url(https://cdn.wallpapersafari.com/44/60/waKN0o.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+border-top: 1px solid;
+height: 75vh;
+width:101.5%;
+background-position: center;
+font-family: 'Montserrat', sans-serif;
+animation: desktopSiteScroll 11s infinite;
+}
+
+.section2{
+background: url(https://www.wallpaperuse.com/wallp/3-34195_m.jpg);
+background-size: cover;
+border-top: 1px solid;
+border-radius: 20px;
+margin-top: 50px;
+background-repeat: no-repeat;
+height: 75vh;
+width:60%;
+margin-left: 90px;
+margin-right: 20px;
+background-position: center;
+font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  text-align: center;
+  margin-top: 80px;
+  color: rgb(168, 133, 209);
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h5{
+  text-align: center;
+  margin-top: 35px;
+  color: white;
+}
+
+.btn-div{
+  flex: display;
+  flex-direction: row;
+  margin-top: 120px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.btn1{
+  color: white;
+  background-color: rgb(40, 7, 72);
+  margin-right: 15px;
+  padding: 14px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn1:hover{
+background-color:#fadafada;
+color: deeppink;
+transition: 0.3s;   
+}
+.btn2{
+  color: black;
+  background-color: #fadafada;
+  padding: 14px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.btn2:hover{
+  background-color: rgb(11, 93, 148);
+  color: white;
+  transition: 0.3s;
+}
+
+.line{
+  text-align: center;
+  margin-top: -10px;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.parag{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  font-size: 28px;
+  padding: 60px;
+}
+
+.span{
+  color: white;
+  background-color: white;
+  font-weight: 400;
+  animation: blink .6s linear infinite alternate;
+}
+
+@keyframes blink {
+    0% {opacity: 1;}
+    40% {opacity: 1;}
+    60% {opacity: 0;}
+    100% {opacity: 0;}
+  }
+  
+  @keyframes desktopSiteScroll{
+    0%{opacity: 1;}
+    40%{opacity: 0.8;}
+    60%{opacity: 0.9;}
+    100%{opacity: 1;}
+  }
+
+
+  /* @media (max-width: 775px){
+    .container{
+      background-color: #D08370;
+      display: block;
+    }
+  } */
