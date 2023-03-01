@@ -10,7 +10,7 @@
   [![MIT License][license-shield]][license-url]
   [![Twitter][twitter-shield]][twitter-url]
   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/18ac43c2-fc36-4785-97fa-f6c69d8793f7/deploy-status)](https://app.netlify.com/sites/legion-arrow-fotos/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18ac43c2-fc36-4785-97fa-f6c69d8793f7/deploy-status)](https://app.netlify.com/sites/legionarrowfotos/deploys)
 </div>
 
 
@@ -19,7 +19,7 @@
     <a href="https://github.com/LegionImmanuel/Photo-Gallery#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://legion-arrow-fotos.netlify.app/">Demo</a>
+    <a href="https://legionarrowfotos.netlify.app/">Demo</a>
     ·
     <a href="https://github.com/LegionImmanuel/Photo-Gallery/issues">Report Bugs</a>
     ·
@@ -35,7 +35,7 @@
 A photography website
 
 #### Base Url
-https://legion-arrow-fotos.netlify.app/
+https://legionarrowfotos.netlify.app/
 
 <!-- Markdown Links & Images -->
 
