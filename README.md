@@ -27,15 +27,39 @@
   </p>
 </div>
 
+# Photography Website
+This is a website showcasing a collection of photographs. The website is designed for desktop use and is not yet responsive.
 
 
-## Photo-Gallery
 
-#### Overview
-A photography website
 
-#### Base Url
-https://legionarrowfotos.netlify.app/
+## Dependencies
+The website uses the following dependencies:
+
+* Bootstrap
+* font awesome
+
+
+## Sections
+The website is organized into the following sections:
+
+* Home: This is the landing page of the website.
+* Gallery: This section displays all the photographs in a layout.
+* About: This section provides some background information about the Photography company.
+* News: This section provides a medium for informing the site's clients of new changes.
+* Contact: This section provides a form for users/client to contact the company.
+  
+
+## Usage
+To use the website, simply navigate to the 
+URL 
+* http://legionarrowfotos.netlify.app 
+
+in your desktop browser. You can then browse the various sections of the website and view the photographs.
+
+## Credits
+<div>Website designed and developed by <a href="https://github.com/legionimmanuel">Legion-Immanuel &copy; 2023</i></a>
+</div>
 
 <!-- Markdown Links & Images -->
 
