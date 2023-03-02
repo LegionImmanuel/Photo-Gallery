@@ -57,6 +57,10 @@ URL
 
 in your desktop browser. You can then browse the various sections of the website and view the photographs.
 
+## Website Preview
+
+<img alt="site-preview" src="/img/screencapture-legionarrowfotos-netlify-app-2023-03-02-19_53_01.jpg">
+
 ## Credits
 <div>Website designed and developed by <a href="https://github.com/legionimmanuel">Legion-Immanuel &copy; 2023</i></a>
 </div>
